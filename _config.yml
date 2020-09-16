@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Zhang's Blog
+title: Penn's Blog
 subtitle: ''
 description: Our life is shaped by our mind; we become what we think.
 keywords:
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://apexpeng.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -64,7 +64,9 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  N2:N2
 tag_map:
+  N2:N2
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
